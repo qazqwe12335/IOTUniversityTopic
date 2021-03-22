@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">遠端監控</string>
+
+    <string name="finger_print">Finger Print</string>
+    <string name="rpi_wifi_status">Main Controller Status：</string>
+    <string name="rpi_wifi_status_message_on">Open</string>
+    <string name="rpi_wifi_status_message_off">Close</string>
+
+    <string name="dialog_msg_power">確認關機</string>
+    <string name="dialog_msg_fingerprint">確認開啟攝影機</string>
+    <string name="dialog_msg_fingerprint_off">確認關閉攝影機</string>
+</resources>
